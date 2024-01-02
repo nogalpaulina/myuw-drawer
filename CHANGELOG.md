@@ -1,5 +1,9 @@
 # myuw-drawer changes
 
+## 1.2.1
+
+* Remove references to Roboto and Arial fonts and replaced with Red Hat Display and Red Hat Text
+
 ## 1.2.0
 
 * Show subheader if "divider" attribute is present (existing implementations unaffected)
@@ -20,7 +24,7 @@
 
 ## 1.0.4
 
-This patch brings a couple accessibility impovements: 
+This patch brings a couple accessibility impovements:
 
-* The hamburger icon is now housed in a proper button 
+* The hamburger icon is now housed in a proper button
 * The drawer contents are no longer focusable by keyboard when the drawer is closed.
